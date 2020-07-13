@@ -42,6 +42,7 @@ apps:
       - unity7
       - wayland
       - desktop
+      - removable-media
 
 parts:
   sosumi:
